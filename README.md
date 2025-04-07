@@ -1,4 +1,4 @@
-# ELAM20250324S14
+
 # 👋 ¡Hola! Soy Eneida Lizbeth Anzora Monge 👩‍💻
 
 Soy desarrolladora de software enfocada en el desarrollo de aplicaciones web modernas utilizando C# y el patrón MVC. Me encanta crear soluciones prácticas, aprender nuevas tecnologías y escribir código claro y mantenible.
